@@ -2,7 +2,6 @@
 id: 01
 type: Post
 title: 战马
-description: 这是一篇文章
 date: 2026-01-11
 draft: false
 tags:
