@@ -1,4 +1,5 @@
 ---
+id: 01
 type: Post
 title: 战马
 description: 这是一篇文章
@@ -10,7 +11,6 @@ tags:
   - Tips
 category:
   - Programming
-image: /images/software-developer.jpg
 author: Jeanne Ballard
 ---
 
