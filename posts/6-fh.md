@@ -11,6 +11,7 @@ tags:
   - Tips
 category:
   - Programming
+image: /images/vegetables.jpg
 author: Jeanne Ballard
 ---
 
